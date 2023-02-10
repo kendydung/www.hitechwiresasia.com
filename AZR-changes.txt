@@ -1,0 +1,7 @@
+Joomla! 3.8.3
+Username: HWA-Admin	Password: Az@hwa
+Database name: www.hitechwiresasia.com
+Table prefix: azr16_
+
+http://localhost/phpmyadmin
+http://localhost/www.hitechwiresasia.com/administrator/index.php
